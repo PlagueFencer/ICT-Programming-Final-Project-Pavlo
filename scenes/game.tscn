@@ -4,8 +4,8 @@
 
 [node name="Game" type="Node2D"]
 
-[node name="Player" parent="." instance=ExtResource("1_uwrxv")]
-
-[node name="Camera2D" type="Camera2D" parent="Player"]
+[node name="Camera2D" type="Camera2D" parent="."]
 scale = Vector2(0.4637, -0.333282)
 zoom = Vector2(5, 5)
+
+[node name="Player" parent="." instance=ExtResource("1_uwrxv")]
