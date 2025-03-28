@@ -8,4 +8,15 @@
 scale = Vector2(0.4637, -0.333282)
 zoom = Vector2(5, 5)
 
+[node name="ColorRect" type="ColorRect" parent="Camera2D"]
+offset_left = -250.0
+offset_top = -195.0
+offset_right = -132.0
+offset_bottom = 41.0
+scale = Vector2(4.2544, 1.65159)
+color = Color(0, 0.94902, 0, 1)
+
 [node name="Player" parent="." instance=ExtResource("1_uwrxv")]
+position = Vector2(-78, 36)
+
+[node name="TileMapLayer" type="TileMapLayer" parent="."]
