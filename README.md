@@ -44,7 +44,7 @@ Simppeli 2D peli Pythonillä (PyGame kirjasto on kaytössä)
    ```
    cd goosegame
    ```
-4. **Asenna pygame:** /n
+4. **Asenna pygame:** \n
     Jos olet Linuxillä:
     ```
     pip3 install pygame
@@ -53,7 +53,7 @@ Simppeli 2D peli Pythonillä (PyGame kirjasto on kaytössä)
     ```
     pip install pygame
     ```
-5. **Käynnistä peli:** /n
+5. **Käynnistä peli:** \n
     Jos olet Linuxillä:
     ```
     python3 main.py
