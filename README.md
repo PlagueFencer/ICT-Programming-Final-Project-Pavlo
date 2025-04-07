@@ -42,7 +42,7 @@ Simppeli 2D peli Pythonillä (PyGame kirjasto on kaytössä)
    ```
    Siirry pelin kansioon:
    ```
-   cd goosegame
+   cd ICT-Programming-Final-Project-Pavlo
    ```
 4. **Asenna pygame:**
     - Jos olet Linuxillä:
