@@ -44,21 +44,21 @@ Simppeli 2D peli Pythonillä (PyGame kirjasto on kaytössä)
    ```
    cd goosegame
    ```
-4. **Asenna pygame:**
+4. **Asenna pygame:** /n
     Jos olet Linuxillä:
     ```
     pip3 install pygame
     ```
-    Jos olen Windowsillä:
+    Jos olet Windowsillä:
     ```
     pip install pygame
     ```
-5. **Käynnistä peli:**
+5. **Käynnistä peli:** /n
     Jos olet Linuxillä:
     ```
     python3 main.py
     ```
-    Jos olen Windowsillä:
+    Jos olet Windowsillä:
     ```
     python main.py
     ```
